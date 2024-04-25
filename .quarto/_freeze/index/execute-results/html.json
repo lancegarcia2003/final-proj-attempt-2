@@ -1,0 +1,16 @@
+{
+  "hash": "dbfde8c665e760e9460322c074fdc4ce",
+  "result": {
+    "markdown": "---\ntitle: \"Final Project\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nrenv::init()\n```\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nrenv::snapshot()\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n- The lockfile is already up to date.\n```\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

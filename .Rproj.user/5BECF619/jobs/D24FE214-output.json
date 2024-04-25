@@ -1,0 +1,8 @@
+[1,"==> quarto preview model.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"\nStarting python3 kernel..."]
+[1,"Done\n"]
+[1,"\nExecuting 'model.ipynb'\n  Cell 1/5..."]
+[1,"Done\n  Cell 2/5..."]
+[1,"Done\n  Cell 3/5..."]
+[1,"Done\n  Cell 4/5...Done\n  Cell 5/5..."]
+[1,"ERROR: \n\nAn error occurred while executing the following cell:\n------------------\nfrom vetiver import VetiverModel\nv = VetiverModel(model, model_name='penguin_model', prototype_data=X)\n------------------\n\n\n\u001B[1;31m---------------------------------------------------------------------------\u001B[0m\n\u001B[1;31mModuleNotFoundError\u001B[0m                       Traceback (most recent call last)\nCell \u001B[1;32mIn[5], line 1\u001B[0m\n\u001B[1;32m----> 1\u001B[0m \u001B[38;5;28;01mfrom\u001B[39;00m \u001B[38;5;21;01mvetiver\u001B[39;00m \u001B[38;5;28;01mimport\u001B[39;00m VetiverModel\n\u001B[0;32m      2\u001B[0m v \u001B[38;5;241m=\u001B[39m VetiverModel(model, model_name\u001B[38;5;241m=\u001B[39m\u001B[38;5;124m'\u001B[39m\u001B[38;5;124mpenguin_model\u001B[39m\u001B[38;5;124m'\u001B[39m, prototype_data\u001B[38;5;241m=\u001B[39mX)\n\n\u001B[1;31mModuleNotFoundError\u001B[0m: No module named 'vetiver'\n\nThere is a requirements.txt file in this directory. Is this for a venv that you need to restore?\n\n"]

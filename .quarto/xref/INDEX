@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "f05ba102"
+  },
+  "about.qmd": {
+    "about.html": "2802a218"
+  },
+  "eda.qmd": {
+    "eda.html": "f2e6f746"
+  },
+  "model.qmd": {
+    "model.html": "87fbb602"
+  },
+  "eda-db.qmd": {
+    "eda-db.html": "be37bb3d"
+  },
+  "Final-Project/about.qmd": {
+    "about.html": "cf5ea637"
+  }
+}

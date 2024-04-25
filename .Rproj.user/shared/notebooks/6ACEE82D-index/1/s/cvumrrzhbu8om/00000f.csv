@@ -1,0 +1,52 @@
+"0","renv::snapshot()"
+"1","A large number of files (41070 in total) have been discovered.
+"
+"1","It may take renv a long time to crawl these files for dependencies.
+"
+"1","Consider using .renvignore to ignore irrelevant files.
+"
+"1","See `?renv::dependencies` for more information.
+"
+"1","Set `options(renv.config.dependencies.limit = Inf)` to disable this warning.
+"
+"1","
+"
+"1","
+"
+"1","NOTE: Dependency discovery took 93 seconds during snapshot.
+"
+"1","Consider using .renvignore to ignore files, or switching to explicit snapshots.
+"
+"1","See `?renv::dependencies` for more information.
+"
+"1","
+"
+"1","- C:/Users/C25Lance.Garcia/OneDrive - afacademy.af.edu/Documents/1 Spring 2024/MATH 378/Final Project/venv/Lib/site-packages/pygments/lexers/__pycache__: 243 files
+"
+"1","- C:/Users/C25Lance.Garcia/OneDrive - afacademy.af.edu/Documents/1 Spring 2024/MATH 378/Final Project/venv/Lib/site-packages/pygments/lexers            : 244 files
+"
+"1","- C:/Users/C25Lance.Garcia/OneDrive - afacademy.af.edu/Documents/1 Spring 2024/MATH 378/Final Project/venv/Lib/site-packages/jupyterlab/static          : 274 files
+"
+"1","- C:/Users/C25Lance.Garcia/OneDrive - afacademy.af.edu/Documents/1 Spring 2024/MATH 378/Final Project/venv/share/jupyter/lab/static                     : 274 files
+"
+"1","- C:/Users/C25Lance.Garcia/OneDrive - afacademy.af.edu/Documents/1 Spring 2024/MATH 378/Final Project/venv/Lib/site-packages                            : 280 files
+"
+"1","- C:/Users/C25Lance.Garcia/OneDrive - afacademy.af.edu/Documents/1 Spring 2024/MATH 378/Final Project/venv/Lib/site-packages/notebook/static            : 383 files
+"
+"1","- C:/Users/C25Lance.Garcia/OneDrive - afacademy.af.edu/Documents/1 Spring 2024/MATH 378/Final Project/venv/Lib/site-packages/babel/locale-data          : 1013 files
+"
+"1","
+"
+"1","WARNING: One or more problems were discovered while enumerating dependencies.
+
+# Final Project/venv/Lib/site-packages/babel/locale-data ---------------------
+Error: directory contains 1013 files; consider ignoring this directory
+
+Please see `?renv::dependencies` for more information.
+
+"
+"0","y"
+"1","
+"
+"1","- The lockfile is already up to date.
+"

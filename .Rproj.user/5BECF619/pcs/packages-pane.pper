@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "C:/Users/C25Lance.Garcia/OneDrive - afacademy.af.edu/Documents/1 Spring 2024/MATH 378/Final Project/renv/library/R-4.2/x86_64-w64-mingw32",
+        "installDependencies": true
+    }
+}
